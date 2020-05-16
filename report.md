@@ -12,7 +12,14 @@
 
 <!-- Use the Empathy Maps we have to create Point of View statements and translate into a combined problem defintion, this only need to be high-level, maybe a few sentences?  -->
 
-## Stakeholders
+## Key Stakeholders
+
+- Relationship Manager/s (RM)
+- Outbound Customers (Potential Customer)
+- Inbound Customers (Current Customers)
+- Board Members/Executives
+- Employees/Potential Employees
+- Company Managers
 
 ## Design Thinking Approach
 
