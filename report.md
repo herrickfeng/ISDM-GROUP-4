@@ -103,12 +103,15 @@ Specifically, in our team, we have been having adhoc **standups** through the we
 <!-- Use-case diagrams, class diagrams, activity diagrams, etc. -->
 
 ## Competitive Advantages
+System using a 'skill level' measurement based on RM performance and call duration will cause relationship managers' work productivity and motivation to increase as their customer traffic is affected by this factor. Lesser skilled RM's will receive lesser inbound calls resulting in higher skilled RMs dealing with customers much more efficiently and quicker resulting in not only higher chances of sale but reduced inbound call costs both resulting in increased revenue. Furthermore, during peak periods high skilled RMs can efficiently handle customers reducing wait time for others in queue reducing the chance of customers leaving due to long wait times
+RMs have the opportunity to improve skill levels by improving their skill level through outbound calls.
 
-
+Resource allocation of the call control flow allowing specific or specalised Rms to be assigned to end-customers depending on the scenario
 <!-- Discuss the competitive advantages our IS software has to the call centre (reducing cost, staff effectiveness, etc.) -->
 
 ## Consequences of IS Project Failure
-
+Project failure could cause loss of the target list resulting in inbound calls being directed to lower skilled RMs which produces lesser revenue as well as customer satisfaction.
+Failure could also cause customers to leave due to long waits during peak periods as efficient and specalised RMs are unable to be automatically allocated to their more knowledgeable areas.
 ## Conclusion
 
 ## References
