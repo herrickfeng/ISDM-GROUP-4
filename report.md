@@ -104,6 +104,7 @@ Specifically, in our team, we have been having adhoc **standups** through the we
 
 ## Competitive Advantages
 
+
 <!-- Discuss the competitive advantages our IS software has to the call centre (reducing cost, staff effectiveness, etc.) -->
 
 ## Consequences of IS Project Failure
