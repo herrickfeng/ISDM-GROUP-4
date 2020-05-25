@@ -105,6 +105,7 @@ The assumptions the team developed include:
    <br>
 2. Scripts and Guidelines are not enough to assist and support customers’ queries.
 3. The system does not update the skill matrix effectively based on subsequent performance in selling packages and in serving customers.
+4. RM's will relay customer improvement data straight from customers to managers. --> this is assumed as it is necessary to decipher the link between RM's relating improvement data from the customers to the Managers so that imrpovements to the new system can be made. This ensures that the system continues to address the requirements of the customers. 
 
 
 
