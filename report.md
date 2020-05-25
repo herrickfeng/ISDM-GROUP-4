@@ -98,6 +98,16 @@ Specifically, in our team, we have been having adhoc **standups** through the we
 
 ## Assumptions
 
+To effectively outline the characteristics of the project, key elements that were not included in the initial assessment of the system needed to be logically assumed. Such assumptions were developed through a process of deliberation as to whether the assumed information would be relevant and potentially actionable in the current system.
+The assumptions the team developed include:
+
+1. Employees/Potential Employees Empathy:
+   <br>
+2. Scripts and Guidelines are not enough to assist and support customers’ queries.
+3. The system does not update the skill matrix effectively based on subsequent performance in selling packages and in serving customers.
+
+
+
 ## Workproducts and models
 
 <!-- Use-case diagrams, class diagrams, activity diagrams, etc. -->
