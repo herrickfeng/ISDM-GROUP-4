@@ -103,15 +103,18 @@ Specifically, in our team, we have been having adhoc **standups** through the we
 <!-- Use-case diagrams, class diagrams, activity diagrams, etc. -->
 
 ## Competitive Advantages
-System using a 'skill level' measurement based on RM performance and call duration will cause relationship managers' work productivity and motivation to increase as their customer traffic is affected by this factor. Lesser skilled RM's will receive lesser inbound calls resulting in higher skilled RMs dealing with customers much more efficiently and quicker resulting in not only higher chances of sale but reduced inbound call costs both resulting in increased revenue. Furthermore, during peak periods high skilled RMs can efficiently handle customers reducing wait time for others in queue reducing the chance of customers leaving due to long wait times
-RMs have the opportunity to improve skill levels by improving their skill level through outbound calls.
-
+System using a 'skill level' measurement based on RM performance and call duration will cause relationship managers' work productivity and motivation to increase as their customer traffic is affected by this factor. The use of the Profiler Tool Lesser skilled RM's will receive lesser inbound calls resulting in higher skilled RMs dealing with customers much more efficiently and quicker resulting in not only higher chances of sale but reduced inbound call costs both resulting in increased revenue. Furthermore, during peak periods high skilled RMs can efficiently handle customers reducing wait time for others in queue reducing the chance of customers leaving due to long wait times
+RMs have the opportunity to improve skill levels by improving their skill level through outbound calls. These 
+Voice Response unit specifies customers via asking reasoning of call through options.
 Resource allocation of the call control flow allowing specific or specalised Rms to be assigned to end-customers depending on the scenario
+Skill level can measure RM performance whether it is improving or not demonstrating employee performance growth as well as problems that occur with specific categorised customers or score levels. 
+Scoring customers through criteria allows them to be served first. By prioritizing the higher chances of product purchase the chances of purchase is much higher especially if they are redirected to higher scored RM’s. Thus, by presenting the high chances with the best of the company’s RM’s the chance of purchase is maximized to the fullest. This is also shared with specialising 
 <!-- Discuss the competitive advantages our IS software has to the call centre (reducing cost, staff effectiveness, etc.) -->
 
 ## Consequences of IS Project Failure
-Project failure could cause loss of the target list resulting in inbound calls being directed to lower skilled RMs which produces lesser revenue as well as customer satisfaction.
+Project failure could cause loss of the target list resulting in outbound calls being directed to lower skilled RMs which produces lesser revenue as well as customer satisfaction due to mismatch of criteria or categories the RM may be specialised in. Same problem can occur to outbound calls failing to allocate specific skills RMs have to specific customer scores and criteria.
 Failure could also cause customers to leave due to long waits during peak periods as efficient and specalised RMs are unable to be automatically allocated to their more knowledgeable areas.
+Voice response 
 ## Conclusion
 
 ## References
