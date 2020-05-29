@@ -98,6 +98,24 @@ Specifically, in our team, we have been having adhoc **standups** through the we
 
 ## Assumptions
 
+To effectively outline the characteristics of the project, key elements that were not included in the initial assessment of the system needed to be logically assumed. Such assumptions were developed through a process of deliberation as to whether the assumed information would be relevant and potentially actionable in the current system.
+
+The assumptions the team developed include:
+
+1. Employees/Potential employee's empathy towards customers:
+   It was not specified within the specifications however it would be assumed that Relationship Managers would be empathetic towards        customers (especially current customers) so as to provide better customer service and understand the needs of their clients more        wholly.
+
+2. Scripts and Guidelines are not enough to assist and support customers’ queries:
+   Customers cannot have their requirements met only through scripts and guidelines, it would seem a logical assumption to think that      the Relationship managers would need assistance from the system to provide extra information about each current customer, such as        notes kept about each customer made upon their first signing up with the company. This could be done in the same way the 'target        list' and 'customer profiles' are created, in that the customer's needs and requirements will dictate the likelihood of purchasing      the product, and in the same way will help RM's provide better services to the customer.
+
+3. RM's will relay customer improvement data straight from customers to managers:
+   This is assumed as it is necessary to decipher the link between RM's relating improvement data from the customers to the Managers so    that improvements to the new system can be made. This ensures that the system continues to address the requirements of the customers. 
+
+4. Board members and managers evaluate feedback as per a specific criteria in order to ascertain the most important requirements to        address:
+   Developers cannot address every single issue that is given by the customers. As such a rigorous criteria would most likely be            implemented to priorities the most relevant requirements.
+
+
+
 ## Workproducts and models
 
 <!-- Use-case diagrams, class diagrams, activity diagrams, etc. -->
