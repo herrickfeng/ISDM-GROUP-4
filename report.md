@@ -1,12 +1,15 @@
 # ISDM Report
 
 ## Introduction
+This report details the plan to create and implement a new call management system for a travel business. This system when implemented properly will increase the efficiency of the call centre by cutting down wait times ensuring their experience is as seamless as possible. 
 
-<!-- Introduce the project, couple of sentences to set the scene, don't go too into detail as that will be done in the objectives and problem definition sections -->
+The system will have three major components. A database where customer/company profiles and data can be securely stored and accessed. An inbound/outbound call management component where calls will diverted to the most appropriate RM based on the customer profile and the RM profile. Lastly, it will also contain a management app where company managers can access and review the performances of their team/s.
+
 
 ## Objectives
-
-<!-- Short sentences, or dot-point form explaining the objectives of the Information System being developed to improve the operation of the in-house CMC -->
+- Improve Customer Experience
+- Increase CMC Effciency
+- Monitor and Review RM Performance
 
 ## Problem Definition
 
