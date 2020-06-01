@@ -14,6 +14,11 @@ The system will have three major components. A database where customer/company p
 ## Problem Definition
 
 <!-- Use the Empathy Maps we have to create Point of View statements and translate into a combined problem defintion, this only need to be high-level, maybe a few sentences?  -->
+The current system has inbound customer calls diverted to any available RM without regard to expertise or experience. This creates a bottleneck when a customer with a specific request is paired with a RM that doesn't have the requisite expertise/experience. Resulting in an increase in customer waiting time as well as a decrease of customer satisfaction. 
+
+On the outbound end, currently a RM would blindly call a customer without any knowlegde of their needs or interests, this generates issues as that specific RM may not have the necessary knowlegde or language to properly communicate with the potential customer, resulting in a decrease of sales effciency.
+
+Finally, as of now Managers do not have a concrete grading system to review the performance of their team/s, this results in a decrease of efficiency in the CMC as manages cannot correctly identify the RMs that have a lower sales rate.
 
 ## Key Stakeholders
 
