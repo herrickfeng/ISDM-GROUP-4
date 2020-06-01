@@ -21,8 +21,6 @@ On the outbound end, currently a RM would blindly call a customer without any kn
 Finally, as of now Managers do not have a concrete grading system to review the performance of their team/s, this results in a decrease of efficiency in the CMC as manages cannot correctly identify the RMs that have a lower sales rate.
 
 ## Key Stakeholders
-
-- Relationship Manager/s (RM)
 - Outbound Customers (Potential Customer)
 - Inbound Customers (Current Customers)
 - Board Members/Executives
@@ -33,6 +31,18 @@ Finally, as of now Managers do not have a concrete grading system to review the 
 
 <!-- Ideation from the above sections (stages 1 and 2 of the design thinking process), 200-300 word reflections and brainstormed ideas; stating any assumptions made. -->
 
+In order to fully grasp the needs of the CMC empathy maps of the key stakeholders have been generated.
+
+1. Outbound Customers
+
+2. Inbound Customers
+
+3. Board Members/Executives
+
+4. Employees/Potential Employees
+
+5. Company Managers
+
 ## Scrum
 
 <!--
@@ -40,7 +50,7 @@ This is a section we can iterate over until we are ready to submit.
 We need to define Scrum and any Scrum activities that we used along the way (like Standups, Retrospectives, etc.)
  -->
 
-Being apart of the agile family of methodologies, Scrum is incremental and iterative. It achieves both incrementality and iteration through the use of "sprints", which are a key term and process used in the Scrum methodology. Scrum is commonly used by software teams, however, in recent years Scrum has branched out and found a place in non-software teams like sales (Solingen, Sutherland, and de Waard, 2010).
+Being a part of the agile family of methodologies, Scrum is incremental and iterative. It achieves both incrementality and iteration through the use of "sprints", which are a key term and process used in the Scrum methodology. Scrum is commonly used by software teams, however, in recent years Scrum has branched out and found a place in non-software teams like sales (Solingen, Sutherland, and de Waard, 2010).
 
 > Strategically implementing Scrum into sales and account management has lead to escalating revenue and a sustainable competitive advantage. (Solingen, Sutherland, and de Waard, 2010)
 
