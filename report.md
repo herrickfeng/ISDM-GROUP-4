@@ -14,6 +14,11 @@ The system will have three major components. A database where customer/company p
 ## Problem Definition
 
 <!-- Use the Empathy Maps we have to create Point of View statements and translate into a combined problem defintion, this only need to be high-level, maybe a few sentences?  -->
+The current system has inbound customer calls diverted to any available RM without regard to expertise or experience. This creates a bottleneck when a customer with a specific request is paired with a RM that doesn't have the requisite expertise/experience. Resulting in an increase in customer waiting time as well as a decrease of customer satisfaction. 
+
+On the outbound end, currently a RM would blindly call a customer without any knowlegde of their needs or interests, this generates issues as that specific RM may not have the necessary knowlegde or language to properly communicate with the potential customer, resulting in a decrease of sales effciency.
+
+Finally, as of now Managers do not have a concrete grading system to review the performance of their team/s, this results in a decrease of efficiency in the CMC as manages cannot correctly identify the RMs that have a lower sales rate.
 
 ## Key Stakeholders
 
@@ -101,15 +106,35 @@ Specifically, in our team, we have been having adhoc **standups** through the we
 
 ## Assumptions
 
+To effectively outline the characteristics of the project, key elements that were not included in the initial assessment of the system needed to be logically assumed. Such assumptions were developed through a process of deliberation as to whether the assumed information would be relevant and potentially actionable in the current system.
+
+The assumptions the team developed include:
+
+1. Employees/Potential employee's empathy towards customers:
+   It was not specified within the specifications however it would be assumed that Relationship Managers would be empathetic towards        customers (especially current customers) so as to provide better customer service and understand the needs of their clients more        wholly.
+
+2. Scripts and Guidelines are not enough to assist and support customers’ queries:
+   Customers cannot have their requirements met only through scripts and guidelines, it would seem a logical assumption to think that      the Relationship managers would need assistance from the system to provide extra information about each current customer, such as        notes kept about each customer made upon their first signing up with the company. This could be done in the same way the 'target        list' and 'customer profiles' are created, in that the customer's needs and requirements will dictate the likelihood of purchasing      the product, and in the same way will help RM's provide better services to the customer.
+
+3. RM's will relay customer improvement data straight from customers to managers:
+   This is assumed as it is necessary to decipher the link between RM's relating improvement data from the customers to the Managers so    that improvements to the new system can be made. This ensures that the system continues to address the requirements of the customers. 
+
+4. Board members and managers evaluate feedback as per a specific criteria in order to ascertain the most important requirements to        address:
+   Developers cannot address every single issue that is given by the customers. As such a rigorous criteria would most likely be            implemented to priorities the most relevant requirements.
+
+
+
 ## Workproducts and models
 
 <!-- Use-case diagrams, class diagrams, activity diagrams, etc. -->
 
 ## Competitive Advantages
-
+The implemented information system will result in multiple competitive advantages by strengthening factors such as productivity and revenue whilst also reducing disadvantages such as operational costs. These costs are addressed by automating multiple tedious tasks inwhich the system does by using a using a 'skill level' measurement relying on age, sex, culture and language proficiency which is all calculated by the Profiler Tool. Furthermore, customers are measured by a score of 1-10 depending on preloaded criteria allowing the system to successfully match each customer to a suitable Relationship manager (RM). This is prominent in inbound calls as higher scored customers are served first preferably to higher skilled RMs. Thus, by capitalising customers with a higher chance of purchase to the most proficient RMs will result in a much higher chance of revenue and success. Revenue is also increased as operational costs from the role of manually allocating and routing customers to RMs becomes redundant, resulting in increased productivity as resources can be allocated towards other areas. Also, the system provides RMs with guidelines, scripts and preloaded customer criteria when undertaking outbound calls which give RMs opportunities to increase their skill level as it affected by sales performance and call-handling time resulting in increased productivity or work ethic. The company is also able to view employee growth or patterns with certain scored customers and possibly find methods to improve if able. The system also uses a scheduling system to dial RMs based on previous performance and call-time ensuring that RMs are not underworked or overworked. Finally, by introducing an Interactive Voice Response unit during peak times, the system specifies customers by presenting them with interactive options. By categorising these customers the system is able to match them with the next avaliable and best suited RM which reduces overall wait time and the chances of customers dropping out of queues due to these long wait times.
 <!-- Discuss the competitive advantages our IS software has to the call centre (reducing cost, staff effectiveness, etc.) -->
 
 ## Consequences of IS Project Failure
+Project failure would cause the complete opposite of competitive advantages as productivity and revenue would drop considerably with a substantial increase in operational costs. As failure of call flow control would result in the manual allocation of each customer to their suitable RM which is tedious, time consuming and error-prone. Also, project failure could cause loss of the target list resulting in inbound calls being directed to less viable RMs which produces lesser revenue as well as customer satisfaction due to mismatch of criteria or categories the RM may be specialised in. This same problem would occur within outbound calls having difficulties allocating specific skilled RMs to specific customers based on scores and criteria as well as not supporting these RMs with guides, scripts and preloaded customer information resulting in decreased chances of sales and longer call-handling times. Finally, without the systems Interactive Voice Response Unit, in peak times customers would have to be manually categorised and allocated resulting in longer wait times as well as chances of errors resulting in longer call times and customer dissatisfaction. Thus, system failure would compromise the entire business as the simple loss of call flow redirection and control itself would delay the system substantially whilst creating much more disorder and confusion between RMs and end-customers.
+
 
 ## Conclusion
 
