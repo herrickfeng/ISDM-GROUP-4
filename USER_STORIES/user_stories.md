@@ -1,6 +1,6 @@
 # User Stories
 
-## Board Members Perspective
+## (1) Board Members Perspective
 
 - As a board member, I want to collaborate with all department managers so that I can realise the system requirements of call management centre. **#UC101**
 - As a board member, I want the managers to review and regular evaluate the system requirements so that call management centre will be able to handle large volume of incoming phone calls without disappointing the customers. **#UC102**
